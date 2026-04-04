@@ -1,0 +1,4 @@
+venv
+build
+obj_detection_app
+object_detection_yolox_2022nov.onnx
